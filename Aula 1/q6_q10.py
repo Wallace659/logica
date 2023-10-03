@@ -1,0 +1,11 @@
+numero1 = int(input("Digite numero1:"))
+numero2 = int(input("Digite numero2:"))
+
+print(numero1 + numero2)
+print(numero1 - numero2)
+print(numero1 * numero2)
+print(numero1 / numero2)
+print(numero1 % 2)
+print(numero2 % 2)
+print(numero1 // numero2)
+print(numero1 ** numero2)
